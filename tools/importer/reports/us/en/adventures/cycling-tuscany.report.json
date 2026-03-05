@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "url": "https://wknd.site/us/en/adventures/cycling-tuscany.html",
+  "path": "us/en/adventures/cycling-tuscany",
+  "timestamp": "2026-03-05T01:46:33.994Z",
+  "title": "Cycling Tuscany",
+  "template": "adventure-detail-template",
+  "blocks": [
+    "carousel",
+    "content-fragment-elements",
+    "tabs"
+  ]
+}

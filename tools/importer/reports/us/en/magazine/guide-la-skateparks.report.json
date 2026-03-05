@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "url": "https://wknd.site/us/en/magazine/guide-la-skateparks.html",
+  "path": "us/en/magazine/guide-la-skateparks",
+  "timestamp": "2026-03-05T01:46:06.601Z",
+  "title": "Ultimate Guide to LA Skateparks",
+  "template": "magazine-article-template",
+  "blocks": [
+    "content-fragment",
+    "byline"
+  ]
+}
